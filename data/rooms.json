@@ -1,0 +1,36 @@
+[
+  {
+    "code": "3JML8",
+    "hostToken": "persist_host",
+    "teamAToken": "client_A",
+    "teamBToken": null,
+    "lastActivity": 1790333610364,
+    "state": {
+      "code": "3JML8",
+      "hostConnected": true,
+      "teamA": {
+        "name": "T-A",
+        "connected": true,
+        "score": 0,
+        "roundScore": 0,
+        "chancesLeft": 3,
+        "guesses": []
+      },
+      "teamB": {
+        "name": "T-B",
+        "connected": false,
+        "score": 0,
+        "roundScore": 0,
+        "chancesLeft": 3,
+        "guesses": []
+      },
+      "currentRound": 0,
+      "status": "lobby",
+      "listSize": 15,
+      "topic": "Famous Movies",
+      "items": [],
+      "roundHistory": [],
+      "winner": null
+    }
+  }
+]

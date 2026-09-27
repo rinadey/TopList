@@ -1,0 +1,6 @@
+{
+  "name": "Top List - Real-Time Multiplayer Trivia Game",
+  "description": "A thrilling real-time multiplayer guessing game for 2 teams. Can you guess what's hiding at the bottom of the hidden ranked list?",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
